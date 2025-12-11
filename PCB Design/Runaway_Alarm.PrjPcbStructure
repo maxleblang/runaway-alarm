@@ -1,0 +1,10 @@
+Record=TopLevelDocument|FileName=02-RTC.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=03-Batteries.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=04-Power-V3P3.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=05-Power-V5P0.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=Carrier_MCU.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=Carrier_Power.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=driver1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=driver2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=IMU.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=02-RTC.SchDoc|FileName=Speaker.SchDoc|SheetNumber=10

@@ -3,7 +3,7 @@ PSoC 6 Self-Balancing Alarm Robot
 
 <img width="500" height="500" alt="Image 12-11-25 at 8 59 PM" src="https://github.com/user-attachments/assets/9a4fe4c7-e269-43f2-9d80-87d782488a63" />
 
-A two-wheeled, self-balancing alarm clock that physically moves away when the alarm rings. The alarm can only be silenced by catching the robot. Built as part of ECE 453: Embedded Systems Design at UW–Madison.
+A two-wheeled, self-balancing alarm clock that physically moves away when the alarm rings. The alarm can only be silenced by catching the robot. Built as part of ECE 453: Embedded Systems Design at UW-Madison.
 
 ## Features
 

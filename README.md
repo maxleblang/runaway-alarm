@@ -23,3 +23,12 @@ A two-wheeled, self-balancing alarm clock that physically moves away when the al
 ### Software Architecture
 <img src="https://github.com/user-attachments/assets/32209128-0f5d-4dee-bb72-cbef3a11064c" alt="Software Structure" width="700">
 
+
+## Runaway Alarm Clock in Action!
+
+### Self-Balancing Demo
+<img src="images/balancing.gif" alt="Robot self-balancing" width="600">
+
+
+### Movement and Obstacle-Avoidance Demo
+<img src="images/move.gif" alt="Robot self-balancing" width="600">
